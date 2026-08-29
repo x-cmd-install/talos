@@ -1,0 +1,61 @@
+about:
+  description: Talos Linux is a modern Linux distribution built for Kubernetes.
+  license: MPL-2.0
+  homepage: https://siderolabs.com/talos-linux
+  head: ea5484b
+  archived: false
+  latestVersion: v1.14.0-rc.2
+  collectedAt: 2026-08-29T06:03:18Z
+timeline:
+  created: 2017-11-03
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-25
+popularity:
+  star: 11041
+  watcher: 86
+  fork: 882
+  release: 389
+  contributor: 348
+  pullRequest: 1316
+  issue: 4191
+language:
+  Go: 12647599
+  Dockerfile: 68799
+  Shell: 53390
+  Makefile: 36451
+  Go Template: 7755
+  jq: 2626
+totalLine: 12816620
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 6
+    mergedPR: 114
+    openPR: 18
+    closedIssue: 49
+    openIssue: 45
+    commit: 109
+  last90d:
+    since: 2026-05-31
+    release: 14
+    mergedPR: 375
+    openPR: 25
+    closedIssue: 147
+    openIssue: 82
+    commit: 363
+  last180d:
+    since: 2026-03-02
+    release: 26
+    mergedPR: 648
+    openPR: 26
+    closedIssue: 322
+    openIssue: 128
+    commit: 639
+  last360d:
+    since: 2025-09-03
+    release: 48
+    mergedPR: 1080
+    openPR: 31
+    closedIssue: 697
+    openIssue: 155
+    commit: 1052
