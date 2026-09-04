@@ -7,7 +7,7 @@ about:
   head: a42ea1d
   archived: false
   latestVersion: v1.12.12
-  collectedAt: 2026-09-04T19:20:06Z
+  collectedAt: 2026-09-04T21:17:05Z
 timeline:
   created: 2017-11-03
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
 popularity:
   star: 11086
   watcher: 87
-  fork: 888
+  fork: 889
   release: 392
   contributor: 354
   pullRequest: 8672
@@ -85,6 +85,74 @@ total:
   openIssue: 186
   commit: 6842
 ---
+path: /home/runner/.x-repo/github.com/siderolabs/talos
+collectedAt: 2026-09-04T21:17:12Z
+loc:
+  Go:
+    code: 525023
+    comments: 48432
+    blanks: 91567
+    files: 2872
+  Yaml:
+    code: 25950
+    comments: 49
+    blanks: 22
+    files: 866
+  Json:
+    code: 17934
+    comments: 0
+    blanks: 0
+    files: 43
+  Protobuf:
+    code: 4789
+    comments: 1913
+    blanks: 827
+    files: 49
+  Sh:
+    code: 1420
+    comments: 123
+    blanks: 320
+    files: 20
+  Dockerfile:
+    code: 1210
+    comments: 91
+    blanks: 234
+    files: 1
+  Makefile:
+    code: 641
+    comments: 23
+    blanks: 142
+    files: 1
+  Toml:
+    code: 253
+    comments: 5
+    blanks: 33
+    files: 8
+  ForgeConfig:
+    code: 71
+    comments: 0
+    blanks: 17
+    files: 4
+  Bitbake:
+    code: 12
+    comments: 7
+    blanks: 3
+    files: 5
+  Markdown:
+    code: 0
+    comments: 42667
+    blanks: 15084
+    files: 123
+  Text:
+    code: 0
+    comments: 878
+    blanks: 0
+    files: 9
+total:
+  code: 577801
+  comments: 94192
+  blanks: 108250
+  files: 4001
 ---
 date: "2026-08-24"
 repo:
