@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 96405876,
       "digest": "sha256:2e2658e6cfb1eb5c642b3753062040dbec168dad2728ea9665c90fed0655cca6",
-      "download_count": 81,
+      "download_count": 83,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:34Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/initramfs-amd64.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 363147264,
       "digest": "sha256:630b8a0fd3461b83189c04c42c208aaeabdb30b2b701868e48704de69d620c86",
-      "download_count": 656,
+      "download_count": 664,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:41Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/metal-amd64.iso"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 231096408,
       "digest": "sha256:38df64260c45a0d4589279906e8e5a20b8895a1024e749929a20c2f352f1cf14",
-      "download_count": 41,
+      "download_count": 42,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:37Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/metal-amd64.raw.zst"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 10077,
       "digest": "sha256:409d202a8c2f45aa974cf72fbd563dfa4b307c7e2092ad99ba890dfae547723e",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:29Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/metal-amd64.raw.zst.bundle"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2298,
       "digest": "sha256:f5c15586d42c8eb6e2636142be161241debdbab4bb072a60e07dd942ef1d957b",
-      "download_count": 6293,
+      "download_count": 6440,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:29Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/sha256sum.txt"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 10222,
       "digest": "sha256:08c12db69873cf5a84a20dba8b5d8d4dd0a3c5ac4f33828e3b4fe3cf01a0c80e",
-      "download_count": 3672,
+      "download_count": 3759,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:29Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/sha256sum.txt.bundle"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 3962,
       "digest": "sha256:5282cef55f251042a2933ddc2927aa05b9e7330c1d9619b554cc3e1d314f80ce",
-      "download_count": 102,
+      "download_count": 103,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:29Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/sha512sum.txt"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 113578626,
       "digest": "sha256:f0c65a0e970b6f23cf0160e432e7496ba93957a49f369780d4e53888ed66ef46",
-      "download_count": 1460,
+      "download_count": 1473,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:34Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/talosctl-darwin-arm64"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 10077,
       "digest": "sha256:649d0272e4e42174e58fbf23e89e9e60d1b900e9cf4930760f593ed803451049",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:29Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/talosctl-freebsd-amd64.bundle"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 118284450,
       "digest": "sha256:2c147c4a99d124c95bd5c190fe054e0b3c93495f2243fd652ebd423adb8377c7",
-      "download_count": 8562,
+      "download_count": 8782,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:34Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/talosctl-linux-amd64"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 110756002,
       "digest": "sha256:19615e1d0eb222de86ec2f1487e7d6e74f5171a9038e73aeacde8cc647e3d9e0",
-      "download_count": 241,
+      "download_count": 243,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:34Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/talosctl-linux-arm64"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 117327360,
       "digest": "sha256:915061c1aecb5c05dd88f46d4a3beb043d6f08a9ec244c613fcf59939e3992d6",
-      "download_count": 323,
+      "download_count": 325,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:34Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/talosctl-windows-amd64.exe"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 19193856,
       "digest": "sha256:bccf4eaf4c414fb541e0949795b2640cf75707edcc8b935ce545e93e0027a629",
-      "download_count": 77,
+      "download_count": 79,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:30Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/vmlinuz-amd64"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 10175,
       "digest": "sha256:87f5eb4ca2d7115e4811e82a3f671f196825811310f8baf0e4b07f4c139c6a9f",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-03T07:05:28Z",
       "updated_at": "2026-09-03T07:05:29Z",
       "browser_download_url": "https://github.com/siderolabs/talos/releases/download/v1.14.0/vmlinuz-amd64.bundle"
