@@ -2,96 +2,96 @@ about:
   description: "Talos Linux is a modern Linux distribution built for Kubernetes."
   license: MPL-2.0
   homepage: https://siderolabs.com/talos-linux
-  head: f593732
+  head: ee71f19
   archived: false
   latestVersion: "v1.15.0-alpha.0"
   latestRelease: "v1.12.12"
   latestPrerelease: "v1.15.0-alpha.0"
-  collectedAt: 2026-09-09T05:42:04Z
+  collectedAt: 2026-09-09T19:55:35Z
 timeline:
   created: 2017-11-03
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-04
   lastPrerelease: 2026-09-08
 popularity:
-  star: 11124
+  star: 11129
   watcher: 88
   fork: 889
   release: 393
   contributor: 356
-  pullRequest: 8691
-  issue: 4243
+  pullRequest: 8698
+  issue: 4262
 language:
-  Go: 13068695
+  Go: 13068735
   Dockerfile: 68760
   Shell: 53751
   Makefile: 36560
   Go Template: 7755
   jq: 2626
-totalBytes: 13238147
+totalBytes: 13238187
 recent:
   last30d:
     since: 2026-08-10
     release: 7
-    mergedPR: 142
-    openPR: 8
-    closedIssue: 51
-    openIssue: 54
-    commit: 114
+    mergedPR: 144
+    openPR: 13
+    closedIssue: 52
+    openIssue: 72
+    commit: 116
   last60d:
     since: 2026-07-11
     release: 13
-    mergedPR: 286
-    openPR: 14
-    closedIssue: 131
-    openIssue: 72
-    commit: 258
+    mergedPR: 288
+    openPR: 19
+    closedIssue: 132
+    openIssue: 90
+    commit: 260
   last90d:
     since: 2026-06-11
     release: 17
-    mergedPR: 387
-    openPR: 16
-    closedIssue: 169
-    openIssue: 90
-    commit: 363
+    mergedPR: 389
+    openPR: 21
+    closedIssue: 170
+    openIssue: 108
+    commit: 365
   last180d:
     since: 2026-03-13
     release: 29
-    mergedPR: 697
-    openPR: 17
-    closedIssue: 328
-    openIssue: 133
-    commit: 662
+    mergedPR: 699
+    openPR: 22
+    closedIssue: 329
+    openIssue: 151
+    commit: 664
   last360d:
     since: 2025-09-14
     release: 51
-    mergedPR: 1123
-    openPR: 22
-    closedIssue: 717
-    openIssue: 161
-    commit: 1078
+    mergedPR: 1125
+    openPR: 27
+    closedIssue: 718
+    openIssue: 179
+    commit: 1080
   last720d:
     since: 2024-09-19
     release: 93
-    mergedPR: 2067
-    openPR: 24
-    closedIssue: 1616
-    openIssue: 185
-    commit: 1979
+    mergedPR: 2069
+    openPR: 29
+    closedIssue: 1617
+    openIssue: 203
+    commit: 1981
 total:
   release: 393
-  mergedPR: 7376
-  openPR: 26
-  closedIssue: 4048
-  openIssue: 195
-  commit: 6863
+  mergedPR: 7378
+  openPR: 31
+  closedIssue: 4049
+  openIssue: 213
+  commit: 6865
 ---
 path: /home/runner/.x-repo/github.com/siderolabs/talos
-collectedAt: 2026-09-09T05:42:18Z
+collectedAt: 2026-09-09T19:55:51Z
 loc:
   Go:
-    code: 529110
+    code: 529111
     comments: 49041
     blanks: 92393
     files: 2893
@@ -151,7 +151,7 @@ loc:
     blanks: 0
     files: 9
 total:
-  code: 582397
+  code: 582398
   comments: 94923
   blanks: 109136
   files: 4025
