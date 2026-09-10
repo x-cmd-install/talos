@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.15.0-alpha.0"
   latestRelease: "v1.12.12"
   latestPrerelease: "v1.15.0-alpha.0"
-  collectedAt: 2026-09-10T21:30:05Z
+  collectedAt: 2026-09-10T22:26:24Z
 timeline:
   created: 2017-11-03
   lastCommit: 2026-09-10
@@ -88,7 +88,7 @@ total:
   commit: 6870
 ---
 path: /home/runner/.x-repo/github.com/siderolabs/talos
-collectedAt: 2026-09-10T21:30:22Z
+collectedAt: 2026-09-10T22:26:40Z
 loc:
   Go:
     code: 529913
