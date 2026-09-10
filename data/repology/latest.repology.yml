@@ -1,0 +1,49 @@
+- repo: alt_p11
+  srcname: talos
+  binnames:
+    - talos-devel
+    - talos-installer
+    - talos-installer-debuginfo
+    - talosctl
+    - talosctl-debuginfo
+  visiblename: talos
+  version: 1.12.10
+  origversion: 1.12.10-alt1
+  status: outdated
+  summary: A modern OS for Kubernetes
+  maintainers:
+    - maks1ms@altlinux.org
+  licenses:
+    - MPL-2.0
+  categories:
+    - System/Configuration/Boot and Init
+- repo: altsisyphus
+  srcname: talos
+  binnames:
+    - talos-devel
+    - talos-installer
+    - talos-installer-debuginfo
+    - talosctl
+    - talosctl-debuginfo
+  visiblename: talos
+  version: 1.13.9
+  origversion: 1.13.9-alt1
+  status: outdated
+  summary: A modern OS for Kubernetes
+  maintainers:
+    - maks1ms@altlinux.org
+  licenses:
+    - MPL-2.0
+  categories:
+    - System/Configuration/Boot and Init
+- repo: nix_unstable
+  srcname: ory-talos
+  visiblename: talos
+  version: 26.2.0
+  origversion: null
+  status: newest
+  summary: Server for issuing, verifying, and managing API keys
+  maintainers:
+    - d.nixpkgs@ryz.dev
+  licenses:
+    - Apache-2.0
