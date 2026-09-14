@@ -14,11 +14,11 @@ x install talos
 
 ## Code insight
 
-Total: **585,177** lines of code across **3884** files in the top 5 languages.
+Total: **585,215** lines of code across **3884** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 532,229 | 49,463 | 92,993 | 2901 |
+| Go | 532,267 | 49,469 | 93,003 | 2901 |
 | Yaml | 26,035 | 49 | 22 | 871 |
 | Json | 18,318 | 0 | 0 | 43 |
 | Protobuf | 4,851 | 1,946 | 836 | 49 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.15.0-alpha.0` (2026-09-04)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-13
 - **Assets in release**: 57
 
 ## Popularity
 
-- **Stars**: 11,150 · **Forks**: 891 · **Open issues**: 4,279 · **Contributors**: 358
+- **Stars**: 11,152 · **Forks**: 891 · **Open issues**: 4,279 · **Contributors**: 358
 
 ## Totals (cumulative)
 
-- **Releases**: 393 · **Merged PRs**: 7391 · **Open PRs**: 32 · **Closed issues**: 4060 · **Open issues**: 219 · **Commits**: 6879
+- **Releases**: 393 · **Merged PRs**: 7392 · **Open PRs**: 31 · **Closed issues**: 4061 · **Open issues**: 218 · **Commits**: 6881
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 7 | 130 | 15 | 50 | 80 | 129 |
-| last60d | 2026-07-15 | 13 | 277 | 20 | 135 | 97 | 273 |
-| 90d | 2026-06-15 | 17 | 393 | 22 | 174 | 114 | 379 |
-| last180d | 2026-03-17 | 29 | 700 | 23 | 329 | 157 | 678 |
-| 360d | 2025-09-18 | 51 | 1123 | 28 | 721 | 186 | 1094 |
-| last720d | 2024-09-23 | 93 | 2072 | 30 | 1619 | 209 | 1988 |
+| 30d | 2026-08-15 | 6 | 130 | 14 | 49 | 80 | 103 |
+| last60d | 2026-07-16 | 13 | 271 | 19 | 133 | 97 | 239 |
+| 90d | 2026-06-16 | 17 | 389 | 21 | 172 | 114 | 356 |
+| last180d | 2026-03-18 | 29 | 696 | 22 | 327 | 157 | 667 |
+| 360d | 2025-09-19 | 51 | 1122 | 27 | 722 | 185 | 1087 |
+| last720d | 2024-09-24 | 92 | 2073 | 29 | 1615 | 208 | 1988 |
 
 ## Release assets
 
@@ -127,14 +127,6 @@ Lowest-scoring checks:
 | [vmlinuz-arm64](https://github.com/siderolabs/talos/releases/download/v1.14.0/vmlinuz-arm64) | 18.2 MiB | `other` |
 | [vmlinuz-arm64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.0/vmlinuz-arm64.bundle) | 9.9 KiB | `other` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/talos). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `26.2.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for talos lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `talos` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -144,4 +136,4 @@ Install metadata for talos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:59:27Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:56:12Z._
