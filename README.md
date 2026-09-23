@@ -4,7 +4,7 @@
 
 Talos Linux is a modern Linux distribution built for Kubernetes.
 
-[![x-cmd/install — talos Code Quality Monitoring Repo Card](https://repo.x-cmd.io/talos.svg)](https://x-cmd.com/install/talos)
+[![x-cmd/install — talos Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/talos.svg)](https://x-cmd.com/install/talos)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install talos
 
 ## Code insight
 
-Total: **599,172** lines of code across **3967** files in the top 5 languages.
+Total: **601,399** lines of code across **3975** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 545,582 | 51,338 | 95,938 | 2975 |
-| Yaml | 26,091 | 69 | 22 | 878 |
-| Json | 18,660 | 0 | 0 | 43 |
-| Protobuf | 4,952 | 1,999 | 860 | 51 |
+| Go | 547,246 | 51,799 | 96,356 | 2980 |
+| Yaml | 26,155 | 69 | 22 | 881 |
+| Json | 19,152 | 0 | 0 | 43 |
+| Protobuf | 4,959 | 2,013 | 861 | 51 |
 | Sh | 1,455 | 128 | 324 | 20 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.14.1` (2026-09-15)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 57
 
 ## Popularity
 
-- **Stars**: 11,215 · **Forks**: 901 · **Open issues**: 4,301 · **Contributors**: 359
+- **Stars**: 11,221 · **Forks**: 902 · **Open issues**: 4,301 · **Contributors**: 360
 
 ## Totals (cumulative)
 
-- **Releases**: 394 · **Merged PRs**: 7416 · **Open PRs**: 38 · **Closed issues**: 4077 · **Open issues**: 224 · **Commits**: 6910
+- **Releases**: 394 · **Merged PRs**: 7426 · **Open PRs**: 38 · **Closed issues**: 4080 · **Open issues**: 221 · **Commits**: 6922
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 6 | 133 | 22 | 51 | 74 | 103 |
-| last60d | 2026-07-24 | 11 | 248 | 24 | 116 | 102 | 232 |
-| 90d | 2026-06-24 | 16 | 385 | 28 | 175 | 116 | 361 |
-| last180d | 2026-03-26 | 28 | 697 | 30 | 327 | 162 | 681 |
-| 360d | 2025-09-27 | 51 | 1133 | 34 | 723 | 191 | 1094 |
-| last720d | 2024-10-02 | 92 | 2081 | 36 | 1598 | 211 | 2005 |
+| 30d | 2026-08-24 | 6 | 135 | 22 | 51 | 70 | 115 |
+| last60d | 2026-07-25 | 11 | 258 | 24 | 119 | 99 | 244 |
+| 90d | 2026-06-25 | 16 | 386 | 28 | 177 | 112 | 373 |
+| last180d | 2026-03-27 | 28 | 705 | 30 | 330 | 159 | 693 |
+| 360d | 2025-09-28 | 51 | 1142 | 34 | 725 | 188 | 1106 |
+| last720d | 2024-10-03 | 92 | 2089 | 36 | 1599 | 208 | 2014 |
 
 ## Release assets
 
@@ -136,4 +136,4 @@ Install metadata for talos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:06:44Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:58:19Z._
