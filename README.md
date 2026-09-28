@@ -14,11 +14,11 @@ x install talos
 
 ## Code insight
 
-Total: **615,293** lines of code across **4048** files in the top 5 languages.
+Total: **615,277** lines of code across **4048** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 560,123 | 53,087 | 98,528 | 3037 |
+| Go | 560,107 | 53,087 | 98,529 | 3037 |
 | Yaml | 26,377 | 69 | 22 | 897 |
 | Json | 19,608 | 0 | 0 | 43 |
 | Protobuf | 5,077 | 2,072 | 881 | 51 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,240 · **Forks**: 904 · **Open issues**: 4,313 · **Contributors**: 361
+- **Stars**: 11,246 · **Forks**: 904 · **Open issues**: 4,313 · **Contributors**: 361
 
 ## Totals (cumulative)
 
-- **Releases**: 394 · **Merged PRs**: 7449 · **Open PRs**: 38 · **Closed issues**: 4089 · **Open issues**: 224 · **Commits**: 6947
+- **Releases**: 394 · **Merged PRs**: 7450 · **Open PRs**: 36 · **Closed issues**: 4091 · **Open issues**: 222 · **Commits**: 6948
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 5 | 131 | 20 | 49 | 73 | 140 |
-| last60d | 2026-07-29 | 11 | 267 | 24 | 114 | 103 | 269 |
-| 90d | 2026-06-29 | 15 | 396 | 28 | 183 | 115 | 398 |
-| last180d | 2026-03-31 | 27 | 724 | 30 | 335 | 164 | 718 |
-| 360d | 2025-10-02 | 50 | 1141 | 34 | 716 | 187 | 1131 |
-| last720d | 2024-10-07 | 92 | 2100 | 36 | 1597 | 211 | 2033 |
+| 30d | 2026-08-29 | 5 | 132 | 18 | 50 | 70 | 99 |
+| last60d | 2026-07-30 | 11 | 257 | 22 | 115 | 101 | 246 |
+| 90d | 2026-06-30 | 15 | 393 | 26 | 185 | 113 | 370 |
+| last180d | 2026-04-01 | 27 | 722 | 28 | 335 | 162 | 704 |
+| 360d | 2025-10-03 | 50 | 1138 | 32 | 716 | 185 | 1108 |
+| last720d | 2024-10-08 | 92 | 2095 | 34 | 1595 | 209 | 2027 |
 
 ## Release assets
 
@@ -136,4 +136,4 @@ Install metadata for talos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:02:24Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:36:51Z._
