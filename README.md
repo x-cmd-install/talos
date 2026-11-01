@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,440 · **Forks**: 938 · **Open issues**: 4,426 · **Contributors**: 373
+- **Stars**: 11,444 · **Forks**: 938 · **Open issues**: 4,428 · **Contributors**: 373
 
 ## Totals (cumulative)
 
-- **Releases**: 402 · **Merged PRs**: 7614 · **Open PRs**: 50 · **Closed issues**: 4184 · **Open issues**: 242 · **Commits**: 7120
+- **Releases**: 402 · **Merged PRs**: 7614 · **Open PRs**: 51 · **Closed issues**: 4185 · **Open issues**: 243 · **Commits**: 7120
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 7 | 119 | 26 | 46 | 46 | 127 |
-| last60d | 2026-09-01 | 13 | 265 | 35 | 119 | 107 | 278 |
-| 90d | 2026-08-02 | 18 | 412 | 38 | 185 | 135 | 420 |
-| last180d | 2026-05-04 | 31 | 783 | 43 | 353 | 176 | 788 |
-| 360d | 2025-11-05 | 56 | 1236 | 46 | 748 | 209 | 1225 |
-| last720d | 2024-11-10 | 96 | 2164 | 48 | 1606 | 229 | 2104 |
+| 30d | 2026-10-02 | 6 | 112 | 27 | 45 | 47 | 127 |
+| last60d | 2026-09-02 | 13 | 259 | 36 | 116 | 105 | 278 |
+| 90d | 2026-08-03 | 18 | 411 | 39 | 182 | 137 | 420 |
+| last180d | 2026-05-05 | 31 | 777 | 44 | 353 | 178 | 788 |
+| 360d | 2025-11-06 | 56 | 1228 | 47 | 749 | 209 | 1225 |
+| last720d | 2024-11-11 | 96 | 2162 | 49 | 1600 | 230 | 2103 |
 
 ## Release assets
 
@@ -144,4 +144,4 @@ Install metadata for talos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:23:26Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:50:12Z._
