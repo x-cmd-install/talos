@@ -14,11 +14,11 @@ x install talos
 
 ## Code insight
 
-Total: **719,645** lines of code across **4405** files in the top 5 languages.
+Total: **719,824** lines of code across **4407** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 659,204 | 63,045 | 119,627 | 3373 |
+| Go | 659,525 | 63,126 | 119,719 | 3375 |
 | Yaml | 26,931 | 70 | 22 | 916 |
 | Json | 22,190 | 0 | 0 | 44 |
 | Protobuf | 5,507 | 2,336 | 952 | 52 |
@@ -26,7 +26,7 @@ Total: **719,645** lines of code across **4405** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.7 / 10**
+Overall score: **7.1 / 10**
 
 Lowest-scoring checks:
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.15.0-alpha.2` (2026-10-26)
-- **Last commit**: 2026-11-09
+- **Latest**: `v1.15.0-beta.0` (2026-10-26)
+- **Last commit**: 2026-11-10
 - **Assets in release**: 57
 
 ## Popularity
 
-- **Stars**: 11,498 · **Forks**: 939 · **Open issues**: 4,449 · **Contributors**: 375
+- **Stars**: 11,512 · **Forks**: 942 · **Open issues**: 4,457 · **Contributors**: 375
 
 ## Totals (cumulative)
 
-- **Releases**: 402 · **Merged PRs**: 7674 · **Open PRs**: 49 · **Closed issues**: 4216 · **Open issues**: 233 · **Commits**: 7205
+- **Releases**: 403 · **Merged PRs**: 7684 · **Open PRs**: 53 · **Closed issues**: 4219 · **Open issues**: 238 · **Commits**: 7220
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 6 | 142 | 27 | 52 | 38 | 160 |
-| last60d | 2026-09-11 | 9 | 276 | 33 | 107 | 65 | 304 |
-| 90d | 2026-08-12 | 16 | 429 | 38 | 183 | 124 | 444 |
-| last180d | 2026-05-14 | 30 | 805 | 43 | 356 | 169 | 818 |
-| 360d | 2025-11-15 | 53 | 1265 | 45 | 739 | 202 | 1275 |
-| last720d | 2024-11-20 | 95 | 2193 | 47 | 1600 | 221 | 2162 |
+| 30d | 2026-10-12 | 7 | 145 | 30 | 51 | 45 | 175 |
+| last60d | 2026-09-12 | 10 | 285 | 37 | 108 | 71 | 319 |
+| 90d | 2026-08-13 | 17 | 431 | 42 | 184 | 128 | 459 |
+| last180d | 2026-05-15 | 31 | 811 | 47 | 358 | 173 | 833 |
+| 360d | 2025-11-16 | 54 | 1274 | 49 | 740 | 207 | 1290 |
+| last720d | 2024-11-21 | 96 | 2195 | 51 | 1602 | 226 | 2172 |
 
 ## Release assets
 
@@ -144,4 +144,4 @@ Install metadata for talos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:23:31Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:04:07Z._
