@@ -27,7 +27,7 @@
     - talosctl-debuginfo
   visiblename: talos
   version: 1.13.12
-  origversion: 1.13.12-alt1
+  origversion: 1.13.12-alt2
   status: outdated
   summary: A modern OS for Kubernetes
   maintainers:
