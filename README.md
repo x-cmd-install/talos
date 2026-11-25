@@ -14,14 +14,14 @@ x install talos
 
 ## Code insight
 
-Total: **750,466** lines of code across **4534** files in the top 5 languages.
+Total: **753,760** lines of code across **4544** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 688,940 | 66,653 | 126,772 | 3495 |
-| Yaml | 27,077 | 73 | 22 | 923 |
-| Json | 22,736 | 0 | 0 | 44 |
-| Protobuf | 5,601 | 2,435 | 965 | 52 |
+| Go | 692,124 | 66,938 | 127,490 | 3504 |
+| Yaml | 27,091 | 73 | 22 | 924 |
+| Json | 22,758 | 0 | 0 | 44 |
+| Protobuf | 5,611 | 2,443 | 967 | 52 |
 | Sh | 1,519 | 136 | 339 | 20 |
 
 ## OpenSSF Scorecard
@@ -42,98 +42,90 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.14.6` (2026-11-11)
-- **Last commit**: 2026-11-24
+- **Latest**: `v1.14.7` (2026-11-24)
+- **Last commit**: 2026-11-25
 - **Assets in release**: 57
 
 ## Popularity
 
-- **Stars**: 11,587 · **Forks**: 954 · **Open issues**: 4,509 · **Contributors**: 380
+- **Stars**: 11,589 · **Forks**: 956 · **Open issues**: 4,511 · **Contributors**: 381
 
 ## Totals (cumulative)
 
-- **Releases**: 404 · **Merged PRs**: 7764 · **Open PRs**: 47 · **Closed issues**: 4255 · **Open issues**: 254 · **Commits**: 7301
+- **Releases**: 405 · **Merged PRs**: 7777 · **Open PRs**: 46 · **Closed issues**: 4266 · **Open issues**: 245 · **Commits**: 7314
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 4 | 176 | 23 | 53 | 53 | 172 |
-| last60d | 2026-09-25 | 10 | 302 | 29 | 114 | 85 | 324 |
-| 90d | 2026-08-26 | 15 | 451 | 34 | 187 | 136 | 488 |
-| last180d | 2026-05-28 | 30 | 839 | 40 | 365 | 191 | 861 |
-| 360d | 2025-11-29 | 54 | 1326 | 43 | 756 | 223 | 1339 |
-| last720d | 2024-12-04 | 95 | 2231 | 44 | 1605 | 242 | 2207 |
+| 30d | 2026-10-26 | 5 | 185 | 22 | 56 | 42 | 185 |
+| last60d | 2026-09-26 | 11 | 315 | 28 | 121 | 78 | 337 |
+| 90d | 2026-08-27 | 16 | 461 | 33 | 194 | 127 | 501 |
+| last180d | 2026-05-29 | 30 | 847 | 39 | 371 | 182 | 874 |
+| 360d | 2025-11-30 | 55 | 1339 | 42 | 765 | 215 | 1352 |
+| last720d | 2024-12-05 | 96 | 2243 | 43 | 1614 | 233 | 2217 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [cloud-images.json](https://github.com/siderolabs/talos/releases/download/v1.14.6/cloud-images.json) | 5.6 KiB | `other` |
-| [initramfs-amd64.xz](https://github.com/siderolabs/talos/releases/download/v1.14.6/initramfs-amd64.xz) | 92.4 MiB | `other` |
-| [initramfs-amd64.xz.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/initramfs-amd64.xz.bundle) | 9.9 KiB | `other` |
-| [initramfs-arm64.xz](https://github.com/siderolabs/talos/releases/download/v1.14.6/initramfs-arm64.xz) | 83.2 MiB | `other` |
-| [initramfs-arm64.xz.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/initramfs-arm64.xz.bundle) | 9.9 KiB | `other` |
-| [metal-amd64-uki.efi](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-amd64-uki.efi) | 111.6 MiB | `other` |
-| [metal-amd64-uki.efi.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-amd64-uki.efi.bundle) | 9.7 KiB | `other` |
-| [metal-amd64.iso](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-amd64.iso) | 348.3 MiB | `other` |
-| [metal-amd64.iso.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-amd64.iso.bundle) | 9.6 KiB | `other` |
-| [metal-amd64.raw.zst](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-amd64.raw.zst) | 221.6 MiB | `other` |
-| [metal-amd64.raw.zst.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-amd64.raw.zst.bundle) | 9.8 KiB | `other` |
-| [metal-arm64-uki.efi](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-arm64-uki.efi) | 102.2 MiB | `other` |
-| [metal-arm64-uki.efi.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-arm64-uki.efi.bundle) | 9.9 KiB | `other` |
-| [metal-arm64.iso](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-arm64.iso) | 217.3 MiB | `other` |
-| [metal-arm64.iso.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-arm64.iso.bundle) | 9.7 KiB | `other` |
-| [metal-arm64.raw.zst](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-arm64.raw.zst) | 101.7 MiB | `other` |
-| [metal-arm64.raw.zst.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/metal-arm64.raw.zst.bundle) | 9.8 KiB | `other` |
-| [sha256sum.txt](https://github.com/siderolabs/talos/releases/download/v1.14.6/sha256sum.txt) | 2.2 KiB | `other` |
-| [sha256sum.txt.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/sha256sum.txt.bundle) | 9.9 KiB | `other` |
-| [sha512sum.txt](https://github.com/siderolabs/talos/releases/download/v1.14.6/sha512sum.txt) | 3.9 KiB | `other` |
-| [sha512sum.txt.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/sha512sum.txt.bundle) | 9.7 KiB | `other` |
-| [talos-amd64.spdx.json](https://github.com/siderolabs/talos/releases/download/v1.14.6/talos-amd64.spdx.json) | 691.9 KiB | `other` |
-| [talos-amd64.spdx.json.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talos-amd64.spdx.json.bundle) | 9.9 KiB | `other` |
-| [talos-arm64.spdx.json](https://github.com/siderolabs/talos/releases/download/v1.14.6/talos-arm64.spdx.json) | 691.9 KiB | `other` |
-| [talos-arm64.spdx.json.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talos-arm64.spdx.json.bundle) | 9.9 KiB | `other` |
-| [talos-container-amd64.spdx.json](https://github.com/siderolabs/talos/releases/download/v1.14.6/talos-container-amd64.spdx.json) | 690.4 KiB | `other` |
-| [talos-container-amd64.spdx.json.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talos-container-amd64.spdx.json.bundle) | 9.7 KiB | `other` |
-| [talos-container-arm64.spdx.json](https://github.com/siderolabs/talos/releases/download/v1.14.6/talos-container-arm64.spdx.json) | 690.4 KiB | `other` |
-| [talos-container-arm64.spdx.json.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talos-container-arm64.spdx.json.bundle) | 9.9 KiB | `other` |
-| [talosctl-cni-bundle-amd64.tar.gz](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-cni-bundle-amd64.tar.gz) | 5.5 MiB | `native/linux/x64` |
-| [talosctl-cni-bundle-amd64.tar.gz.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-cni-bundle-amd64.tar.gz.bundle) | 9.7 KiB | `other` |
-| [talosctl-cni-bundle-arm64.tar.gz](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-cni-bundle-arm64.tar.gz) | 5.0 MiB | `native/linux/arm64` |
-| [talosctl-cni-bundle-arm64.tar.gz.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-cni-bundle-arm64.tar.gz.bundle) | 9.7 KiB | `other` |
-| [talosctl-darwin-amd64](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-darwin-amd64) | 115.4 MiB | `native/darwin/x64` |
-| [talosctl-darwin-amd64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-darwin-amd64.bundle) | 9.8 KiB | `native/darwin/x64` |
-| [talosctl-darwin-arm64](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-darwin-arm64) | 109.0 MiB | `native/darwin/arm64` |
-| [talosctl-darwin-arm64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-darwin-arm64.bundle) | 9.8 KiB | `native/darwin/arm64` |
-| [talosctl-freebsd-amd64](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-freebsd-amd64) | 109.8 MiB | `other` |
-| [talosctl-freebsd-amd64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-freebsd-amd64.bundle) | 9.8 KiB | `other` |
-| [talosctl-freebsd-arm64](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-freebsd-arm64) | 102.7 MiB | `other` |
-| [talosctl-freebsd-arm64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-freebsd-arm64.bundle) | 9.9 KiB | `other` |
-| [talosctl-linux-amd64](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-linux-amd64) | 113.5 MiB | `native/linux/x64` |
-| [talosctl-linux-amd64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-linux-amd64.bundle) | 9.8 KiB | `native/linux/x64` |
-| [talosctl-linux-arm64](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-linux-arm64) | 106.4 MiB | `native/linux/arm64` |
-| [talosctl-linux-arm64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-linux-arm64.bundle) | 9.8 KiB | `native/linux/arm64` |
-| [talosctl-linux-armv7](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-linux-armv7) | 106.1 MiB | `native/linux/arm` |
-| [talosctl-linux-armv7.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-linux-armv7.bundle) | 9.9 KiB | `native/linux/arm` |
-| [talosctl-linux-riscv64](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-linux-riscv64) | 102.5 MiB | `native/linux/riscv64` |
-| [talosctl-linux-riscv64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-linux-riscv64.bundle) | 9.9 KiB | `native/linux/riscv64` |
-| [talosctl-windows-amd64.exe](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-windows-amd64.exe) | 112.6 MiB | `native/win/x64` |
-| [talosctl-windows-amd64.exe.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-windows-amd64.exe.bundle) | 9.9 KiB | `native/win/x64` |
-| [talosctl-windows-arm64.exe](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-windows-arm64.exe) | 104.0 MiB | `native/win/arm64` |
-| [talosctl-windows-arm64.exe.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/talosctl-windows-arm64.exe.bundle) | 9.9 KiB | `native/win/arm64` |
-| [vmlinuz-amd64](https://github.com/siderolabs/talos/releases/download/v1.14.6/vmlinuz-amd64) | 18.4 MiB | `other` |
-| [vmlinuz-amd64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/vmlinuz-amd64.bundle) | 9.8 KiB | `other` |
-| [vmlinuz-arm64](https://github.com/siderolabs/talos/releases/download/v1.14.6/vmlinuz-arm64) | 18.3 MiB | `other` |
-| [vmlinuz-arm64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.6/vmlinuz-arm64.bundle) | 9.8 KiB | `other` |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/talos). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `26.2.0` | ✅ latest |
+| [cloud-images.json](https://github.com/siderolabs/talos/releases/download/v1.14.7/cloud-images.json) | 5.6 KiB | `other` |
+| [initramfs-amd64.xz](https://github.com/siderolabs/talos/releases/download/v1.14.7/initramfs-amd64.xz) | 92.5 MiB | `other` |
+| [initramfs-amd64.xz.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/initramfs-amd64.xz.bundle) | 9.9 KiB | `other` |
+| [initramfs-arm64.xz](https://github.com/siderolabs/talos/releases/download/v1.14.7/initramfs-arm64.xz) | 83.2 MiB | `other` |
+| [initramfs-arm64.xz.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/initramfs-arm64.xz.bundle) | 9.9 KiB | `other` |
+| [metal-amd64-uki.efi](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-amd64-uki.efi) | 111.7 MiB | `other` |
+| [metal-amd64-uki.efi.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-amd64-uki.efi.bundle) | 9.9 KiB | `other` |
+| [metal-amd64.iso](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-amd64.iso) | 348.3 MiB | `other` |
+| [metal-amd64.iso.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-amd64.iso.bundle) | 9.8 KiB | `other` |
+| [metal-amd64.raw.zst](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-amd64.raw.zst) | 221.8 MiB | `other` |
+| [metal-amd64.raw.zst.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-amd64.raw.zst.bundle) | 9.9 KiB | `other` |
+| [metal-arm64-uki.efi](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-arm64-uki.efi) | 102.3 MiB | `other` |
+| [metal-arm64-uki.efi.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-arm64-uki.efi.bundle) | 9.9 KiB | `other` |
+| [metal-arm64.iso](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-arm64.iso) | 217.3 MiB | `other` |
+| [metal-arm64.iso.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-arm64.iso.bundle) | 9.9 KiB | `other` |
+| [metal-arm64.raw.zst](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-arm64.raw.zst) | 101.7 MiB | `other` |
+| [metal-arm64.raw.zst.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/metal-arm64.raw.zst.bundle) | 9.9 KiB | `other` |
+| [sha256sum.txt](https://github.com/siderolabs/talos/releases/download/v1.14.7/sha256sum.txt) | 2.2 KiB | `other` |
+| [sha256sum.txt.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/sha256sum.txt.bundle) | 10.0 KiB | `other` |
+| [sha512sum.txt](https://github.com/siderolabs/talos/releases/download/v1.14.7/sha512sum.txt) | 3.9 KiB | `other` |
+| [sha512sum.txt.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/sha512sum.txt.bundle) | 10.0 KiB | `other` |
+| [talos-amd64.spdx.json](https://github.com/siderolabs/talos/releases/download/v1.14.7/talos-amd64.spdx.json) | 694.1 KiB | `other` |
+| [talos-amd64.spdx.json.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talos-amd64.spdx.json.bundle) | 9.9 KiB | `other` |
+| [talos-arm64.spdx.json](https://github.com/siderolabs/talos/releases/download/v1.14.7/talos-arm64.spdx.json) | 694.1 KiB | `other` |
+| [talos-arm64.spdx.json.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talos-arm64.spdx.json.bundle) | 10.0 KiB | `other` |
+| [talos-container-amd64.spdx.json](https://github.com/siderolabs/talos/releases/download/v1.14.7/talos-container-amd64.spdx.json) | 692.6 KiB | `other` |
+| [talos-container-amd64.spdx.json.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talos-container-amd64.spdx.json.bundle) | 9.8 KiB | `other` |
+| [talos-container-arm64.spdx.json](https://github.com/siderolabs/talos/releases/download/v1.14.7/talos-container-arm64.spdx.json) | 692.6 KiB | `other` |
+| [talos-container-arm64.spdx.json.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talos-container-arm64.spdx.json.bundle) | 10.0 KiB | `other` |
+| [talosctl-cni-bundle-amd64.tar.gz](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-cni-bundle-amd64.tar.gz) | 5.5 MiB | `native/linux/x64` |
+| [talosctl-cni-bundle-amd64.tar.gz.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-cni-bundle-amd64.tar.gz.bundle) | 9.8 KiB | `other` |
+| [talosctl-cni-bundle-arm64.tar.gz](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-cni-bundle-arm64.tar.gz) | 5.0 MiB | `native/linux/arm64` |
+| [talosctl-cni-bundle-arm64.tar.gz.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-cni-bundle-arm64.tar.gz.bundle) | 9.7 KiB | `other` |
+| [talosctl-darwin-amd64](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-darwin-amd64) | 115.4 MiB | `native/darwin/x64` |
+| [talosctl-darwin-amd64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-darwin-amd64.bundle) | 9.9 KiB | `native/darwin/x64` |
+| [talosctl-darwin-arm64](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-darwin-arm64) | 109.0 MiB | `native/darwin/arm64` |
+| [talosctl-darwin-arm64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-darwin-arm64.bundle) | 9.9 KiB | `native/darwin/arm64` |
+| [talosctl-freebsd-amd64](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-freebsd-amd64) | 109.8 MiB | `other` |
+| [talosctl-freebsd-amd64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-freebsd-amd64.bundle) | 9.9 KiB | `other` |
+| [talosctl-freebsd-arm64](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-freebsd-arm64) | 102.8 MiB | `other` |
+| [talosctl-freebsd-arm64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-freebsd-arm64.bundle) | 9.8 KiB | `other` |
+| [talosctl-linux-amd64](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-linux-amd64) | 113.6 MiB | `native/linux/x64` |
+| [talosctl-linux-amd64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-linux-amd64.bundle) | 10.0 KiB | `native/linux/x64` |
+| [talosctl-linux-arm64](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-linux-arm64) | 106.4 MiB | `native/linux/arm64` |
+| [talosctl-linux-arm64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-linux-arm64.bundle) | 9.9 KiB | `native/linux/arm64` |
+| [talosctl-linux-armv7](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-linux-armv7) | 106.1 MiB | `native/linux/arm` |
+| [talosctl-linux-armv7.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-linux-armv7.bundle) | 9.8 KiB | `native/linux/arm` |
+| [talosctl-linux-riscv64](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-linux-riscv64) | 102.6 MiB | `native/linux/riscv64` |
+| [talosctl-linux-riscv64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-linux-riscv64.bundle) | 9.9 KiB | `native/linux/riscv64` |
+| [talosctl-windows-amd64.exe](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-windows-amd64.exe) | 112.6 MiB | `native/win/x64` |
+| [talosctl-windows-amd64.exe.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-windows-amd64.exe.bundle) | 9.9 KiB | `native/win/x64` |
+| [talosctl-windows-arm64.exe](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-windows-arm64.exe) | 104.0 MiB | `native/win/arm64` |
+| [talosctl-windows-arm64.exe.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/talosctl-windows-arm64.exe.bundle) | 9.9 KiB | `native/win/arm64` |
+| [vmlinuz-amd64](https://github.com/siderolabs/talos/releases/download/v1.14.7/vmlinuz-amd64) | 18.5 MiB | `other` |
+| [vmlinuz-amd64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/vmlinuz-amd64.bundle) | 9.9 KiB | `other` |
+| [vmlinuz-arm64](https://github.com/siderolabs/talos/releases/download/v1.14.7/vmlinuz-arm64) | 18.3 MiB | `other` |
+| [vmlinuz-arm64.bundle](https://github.com/siderolabs/talos/releases/download/v1.14.7/vmlinuz-arm64.bundle) | 9.9 KiB | `other` |
 
 ## Improve this data
 
@@ -144,4 +136,4 @@ Install metadata for talos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:30:49Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:14:19Z._
